@@ -1,7 +1,11 @@
 # What's this?
-It's a podcast that's like grabbing coffee with AI researchers. The intended audience for the episodes are people with technical competency. 
+It's a podcast akin to grabbing coffee with AI researchers. The target audience is people with technical competency. 
 
 The preliminary focus will be on the [Creative AI](http://www.creativeai.net/) space. 
+
+### Episodes
+
+*TBD*
 
 ### Contact
 Interested in contributing? Tweet me [@ChadWittman](https://twitter.com/chadwittman) or make a pull request. 
