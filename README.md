@@ -8,7 +8,7 @@ The preliminary focus will be on the [Creative AI](http://www.creativeai.net/) s
 *TBD*
 
 ### Contact
-Interested in contributing? Tweet me [@ChadWittman](https://twitter.com/chadwittman) or make a pull request. 
+Interested in contributing? Tweet me [@ChadWittman](https://twitter.com/chadwittman) or [create an issue](https://github.com/chadwittman/ai-guild/issues/new). 
 
 ### Resources
 
