@@ -1,5 +1,5 @@
 # What's this?
-It's a podcast akin to grabbing coffee with Creative AI researchers. The target audience is people working within the tech industry.  
+It's a podcast akin to grabbing coffee with Creative AI researchers. The target audience is people with tech competency. 
 
 The focus will be on the [Creative AI](http://www.creativeai.net/) space. 
 
@@ -10,7 +10,7 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 ### Why are we doing this?
 Our mission is to bring an open &amp; collaborative AI to all of humanity. 
 
-Obsessed with consuming the latest Creative AI research, we found ourselves stuck between two types output from the nascent industry: PhD level research or BuzzFeed level simplification. This is our attempt to deliver a hybrid solution that is consumable by people that can use &amp; contribute. 
+Obsessed with consuming the latest Creative AI research, we found ourselves stuck between two types output from the nascent industry: PhD level research or BuzzFeed level simplification. This is our attempt to deliver a hybrid solution that is consumable by people that can comprehend &amp; some day contribute to. 
 
 ### Contact
 Interested in contributing? Tweet me [@ChadWittman](https://twitter.com/chadwittman) or [create an issue](https://github.com/chadwittman/ai-guild/issues/new). 
