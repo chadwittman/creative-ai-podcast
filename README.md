@@ -8,7 +8,7 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 *TBD*
 
 ### Why are we doing this?
-Our mission is to bring an open &amp; collaborative AI to all of humanity. 
+Our mission is to bring an open &amp; collaborative AI to all of humanity.
 
 Obsessed with consuming the latest Creative AI research, we found ourselves stuck between two types output from the nascent industry: PhD level research or BuzzFeed level simplification. This is our attempt to deliver a hybrid solution that is consumable by people that can comprehend &amp; some day contribute to. 
 
