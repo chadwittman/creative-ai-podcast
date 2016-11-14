@@ -1,5 +1,5 @@
 # What's this?
-It's a podcast akin to grabbing coffee with Creative AI researchers. The target audience is people with tech competency. 
+It's a podcast akin to grabbing coffee with Creative AI researchers. The target audience is people with technical competency. 
 
 The focus will be on the [Creative AI](http://www.creativeai.net/) space. 
 
