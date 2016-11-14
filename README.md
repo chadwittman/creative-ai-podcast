@@ -7,6 +7,8 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 
 *TBD*
 
+[Watch our repo](https://github.com/chadwittman/ai-guild/subscription) for updates!
+
 ### Why are we doing this?
 Our mission is to bring an open &amp; collaborative AI to all of humanity.
 
