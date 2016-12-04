@@ -5,7 +5,7 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 
 ### Episodes
 
-*TBD*
+[AI Generated Logos // AI Guild Podcast #1](https://youtu.be/B3_jMHaomnU)
 
 [Watch our repo](https://github.com/chadwittman/ai-guild/subscription) for updates!
 
