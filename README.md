@@ -5,7 +5,8 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 
 ### Episodes
 
-* [AI Generated Logos // AI Guild Podcast Episode #1](https://youtu.be/B3_jMHaomnU)
+* AI Generated Logos // AI Guild Podcast Episode #1 [YouTube](https://youtu.be/B3_jMHaomnU) [iTunes](https://itunes.apple.com/us/podcast/ai-guild/id1182836193) [Podcast](http://www.hipcast.com/podcast/H27Q90VQ)
+* AI Temporal Common Sense // AI Guild Podcast Episode #2 [YouTube](https://youtu.be/CMRy4Y-ZwGE) [iTunes](https://itunes.apple.com/us/podcast/ai-guild/id1182836193) [Podcast](http://www.hipcast.com/podcast/H8YXsBVQ)
 
 [Watch our repo](https://github.com/chadwittman/ai-guild/subscription) for updates!
 
