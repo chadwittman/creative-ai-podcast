@@ -11,6 +11,8 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 
 [Listen on iTunes](https://itunes.apple.com/us/podcast/ai-generated-logos-ai-guild/id1182836193?) or [Listen on Hipcast](http://www.hipcast.com/podcast/H27Q90VQ)
 
+### How do I subscribe to new episodes?
+
 [Watch our repo](https://github.com/chadwittman/ai-guild/subscription) for updates!
 
 ### Why are we doing this?
