@@ -5,6 +5,7 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 
 ### Episodes
 
+* [BachBot: An AI that makes music like Bach E5 // YouTube (Recommended)](https://youtu.be/n8Z_7cvI0WE)
 * [Generative Fine Art E4 // YouTube (Recommended)](https://youtu.be/4RkqLb895r4)
 * [Modifying Faces with Invertible cGANs E3 // YouTube (Recommended)](https://youtu.be/V0y4nOqvv-Y)
 * [AI Temporal Common Sense E2 // YouTube (Recommended)](https://youtu.be/CMRy4Y-ZwGE)
