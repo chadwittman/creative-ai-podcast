@@ -5,14 +5,16 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 
 ### Episodes
 
-* [Generating faces with deconvolution networks E6 // YouTube (Recommended)](https://youtu.be/gXMwSzuCjLk)
-* [BachBot: An AI that makes music like Bach E5 // YouTube (Recommended)](https://youtu.be/n8Z_7cvI0WE)
-* [Generative Fine Art E4 // YouTube (Recommended)](https://youtu.be/4RkqLb895r4)
-* [Modifying Faces with Invertible cGANs E3 // YouTube (Recommended)](https://youtu.be/V0y4nOqvv-Y)
-* [AI Temporal Common Sense E2 // YouTube (Recommended)](https://youtu.be/CMRy4Y-ZwGE)
-* [AI Generated Logos E1 // YouTube (Recommended)](https://youtu.be/B3_jMHaomnU)
+It's recommended to view on YouTube at 1.5x speed. 
 
-[Listen on iTunes](https://itunes.apple.com/us/podcast/ai-generated-logos-ai-guild/id1182836193?) or [Listen on Hipcast](http://www.hipcast.com/podcast/H27Q90VQ)
+* [Generating faces with deconvolution networks E6](https://youtu.be/gXMwSzuCjLk)
+* [BachBot: An AI that makes music like Bach E5](https://youtu.be/n8Z_7cvI0WE)
+* [Generative Fine Art E4](https://youtu.be/4RkqLb895r4)
+* [Modifying Faces with Invertible cGANs E3](https://youtu.be/V0y4nOqvv-Y)
+* [AI Temporal Common Sense E2](https://youtu.be/CMRy4Y-ZwGE)
+* [AI Generated Logos E1](https://youtu.be/B3_jMHaomnU)
+
+Alternatively, [Listen on iTunes](https://itunes.apple.com/us/podcast/ai-generated-logos-ai-guild/id1182836193?) or [Listen on Hipcast](http://www.hipcast.com/podcast/H27Q90VQ)
 
 ### How do I subscribe to new episodes?
 
