@@ -5,6 +5,7 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 
 ### Episodes
 
+* [Generating faces with deconvolution networks E6 // YouTube (Recommended)](https://youtu.be/gXMwSzuCjLk)
 * [BachBot: An AI that makes music like Bach E5 // YouTube (Recommended)](https://youtu.be/n8Z_7cvI0WE)
 * [Generative Fine Art E4 // YouTube (Recommended)](https://youtu.be/4RkqLb895r4)
 * [Modifying Faces with Invertible cGANs E3 // YouTube (Recommended)](https://youtu.be/V0y4nOqvv-Y)
