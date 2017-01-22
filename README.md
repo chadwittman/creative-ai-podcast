@@ -7,6 +7,7 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 
 It's recommended to view on YouTube at 1.5x speed. 
 
+* [Generating Music with AI (ALYSIA) E8](https://youtu.be/KRaLgcXUauo)
 * [Neurally-Guided Procedural Models E7](https://youtu.be/hQ-XMJIzppY)
 * [Generating faces with deconvolution networks E6](https://youtu.be/gXMwSzuCjLk)
 * [BachBot: An AI that makes music like Bach E5](https://youtu.be/n8Z_7cvI0WE)
@@ -15,7 +16,7 @@ It's recommended to view on YouTube at 1.5x speed.
 * [AI Temporal Common Sense E2](https://youtu.be/CMRy4Y-ZwGE)
 * [AI Generated Logos E1](https://youtu.be/B3_jMHaomnU)
 
-Alternatively, [Listen on iTunes](https://itunes.apple.com/us/podcast/ai-generated-logos-ai-guild/id1182836193?) or [Listen on Hipcast](http://www.hipcast.com/podcast/H27Q90VQ).
+Alternatively, [Listen on iTunes](https://itunes.apple.com/us/podcast/ai-generated-logos-ai-guild/id1182836193?) or [Listen on Hipcast](http://chadwittman.hipcast.com/rss/ai-guild.xml).
 
 ### How do I subscribe to new episodes?
 
