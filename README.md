@@ -7,6 +7,7 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 
 It's recommended to view on YouTube at 1.5x speed. 
 
+* [Generating a 3D Human Pose & Shape from a Single Image E9](https://youtu.be/ix4INISbazM)
 * [Generating Music with AI (ALYSIA) E8](https://youtu.be/KRaLgcXUauo)
 * [Neurally-Guided Procedural Models E7](https://youtu.be/hQ-XMJIzppY)
 * [Generating faces with deconvolution networks E6](https://youtu.be/gXMwSzuCjLk)
