@@ -7,6 +7,7 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 
 It's recommended to view on YouTube at 1.5x speed. 
 
+* [Image-to-Image Translation with Conditional Adversarial Networks // E11](https://youtu.be/B1bMMF8miN8)
 * [A Singing Synthesizer Based on PixelCNN E10](https://youtu.be/ekhiSUtRoTA)
 * [Generating a 3D Human Pose & Shape from a Single Image E9](https://youtu.be/ix4INISbazM)
 * [Generating Music with AI (ALYSIA) E8](https://youtu.be/KRaLgcXUauo)
