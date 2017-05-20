@@ -23,7 +23,7 @@ Alternatively, [Listen on iTunes](https://itunes.apple.com/us/podcast/ai-generat
 
 ### How do I subscribe to new episodes?
 
-[Watch our repo](https://github.com/chadwittman/ai-guild/subscription) for updates!
+[Watch our repo](https://github.com/chadwittman/the-ai-podcast/subscription) for updates!
 
 ### Why are we doing this?
 Our mission is to bring an open &amp; collaborative AI to all of humanity.
@@ -31,10 +31,4 @@ Our mission is to bring an open &amp; collaborative AI to all of humanity.
 Obsessed with consuming the latest Creative AI research, we found ourselves stuck between two types output from the nascent industry: PhD level research or BuzzFeed level simplification. This is our attempt to deliver a hybrid solution that is consumable by people that can comprehend &amp; some day contribute to. 
 
 ### Contact
-Interested in contributing? Tweet me [@ChadWittman](https://twitter.com/chadwittman) or [create an issue](https://github.com/chadwittman/ai-guild/issues/new). 
-
-### Resources
-
-* <https://github.com/terryum/awesome-deep-learning-papers>
-* <http://neuralnetworksanddeeplearning.com/>
-* <https://github.com/ZuzooVn/machine-learning-for-software-engineers>
+Interested in contributing? Tweet me [@ChadWittman](https://twitter.com/chadwittman) or create an issue here. 
