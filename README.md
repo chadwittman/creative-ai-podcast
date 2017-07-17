@@ -8,7 +8,7 @@ The focus will be on the [Creative AI](http://www.creativeai.net/) space.
 It's recommended to view on YouTube at 1.5x speed. 
 
 * [Weakly Supervised Generative Adversarial Networks for 3D Reconstruction // E13](https://youtu.be/D2dLHCrvDvs)
-* [Training Object Class Detectors with Click Supervision] // E12](https://youtu.be/imGLxLuOzz0)
+* [Training Object Class Detectors with Click Supervision // E12](https://youtu.be/imGLxLuOzz0)
 * [Image-to-Image Translation with Conditional Adversarial Networks // E11](https://youtu.be/B1bMMF8miN8)
 * [A Singing Synthesizer Based on PixelCNN E10](https://youtu.be/ekhiSUtRoTA)
 * [Generating a 3D Human Pose & Shape from a Single Image E9](https://youtu.be/ix4INISbazM)
